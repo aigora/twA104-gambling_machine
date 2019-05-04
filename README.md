@@ -14,3 +14,4 @@ El trabajo consistirá en hacer una maqueta utilizando Arduino UNO a la que se l
 pretendemos crear una máquina recreativa que muestre en la pantalla LCD una interfaz de juego en la que se llame al usuario a comenzar el
 juego interactuando con el KeyPad (el cual tendrá las distintas opciones de apuestas, apostar 1€, 2€, 3€ y 4€, la opción de introducir
 dinero y la de retirarlo), la pantalla también le mostrará al usuario si ha ganado o perdido.
+(Las opciones mencionadas son explicativas).
